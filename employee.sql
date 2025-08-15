@@ -1,4 +1,4 @@
-CREATE TABLE employee (
+CREATE TABLE emp_tbl (
     emp_id INT PRIMARY KEY,             -- Unique Employee ID
     first_name VARCHAR(50) NOT NULL,    -- Employee's first name
     last_name VARCHAR(50) NOT NULL,     -- Employee's last name
